@@ -16,3 +16,8 @@ figcaption {
   color: grey;
   text-align: right;
 }
+.milk-text {
+  font: bold 2.6em 'Else Swach Caps', cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
